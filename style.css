@@ -1,0 +1,38 @@
+#row {
+    display: flex;
+    align-items: center;
+}
+
+#box {
+    height: 15px;
+    width: 15px;
+    border: 10px solid darkred;
+    margin-left: 550px;
+}
+
+#white {
+    background-color: white;
+}
+
+#s1 {
+    color: darkred;
+    font-size: 50px;
+    margin-left: 7px;
+}
+
+#head2 {
+    color: white;
+    height: 100px;
+    width: 150px;
+    font-size: 23px;
+    border: 20px solid darkred;
+    text-decoration: none;
+    background-color: darkred;
+}
+
+#head3 {
+    color: darkred;
+    background-color: darkred;
+    border: 40000px solid darkred;
+    margin: 0;
+}
